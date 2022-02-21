@@ -1,2 +1,2 @@
 # GitWorkShop
-add newread mer
+add new read me
